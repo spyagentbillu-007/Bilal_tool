@@ -14,7 +14,7 @@
 ```bash
 pkg update -y
 pkg install git -y
-git clone https://github.com/<YourUsername>/bilal-tool.git
+git clone https://github.com/spyagentbillu-007//bilal-tool.git
 cd bilal-tool
 chmod +x bilal_tool.sh
 ./bilal_tool.sh
